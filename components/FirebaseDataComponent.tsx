@@ -46,6 +46,7 @@ const TemperatureMeter: React.FC = () => {
             <h3 className="text-xl font-semibold pb-4">Resumen de hoy</h3>
 
             <section className="grid grid-cols-2 gap-4">
+              
               <div className="bg-[#f8f8f8] flex p-6 rounded items-center">
                 <IoWaterOutline size={60} color="#5FBFF9" />
                 <div className="flex-1 ml-6">
